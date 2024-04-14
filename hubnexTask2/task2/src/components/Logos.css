@@ -1,0 +1,11 @@
+img{
+padding-left: 15px;
+}
+.logos{
+    margin-bottom: 60px;
+}
+ @media screen  and (max-width:375px){
+    img{
+        padding-left: 10px;
+    }
+ }

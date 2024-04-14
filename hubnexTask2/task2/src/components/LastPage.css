@@ -1,0 +1,28 @@
+.lastPage{
+    background-color: black;
+    height: 400px;
+    width: 100vw;
+    overflow-x: hidden;
+    position: relative;
+    left: -10%; 
+    overflow-y: hidden;
+}
+
+ .info2{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+    line-height: 3;
+    
+ }
+ .lastPara{
+    position: relative;
+    left: 40px;
+ }
+ .social{
+    position: relative;
+    top: 100px;
+    left: -40px;
+ }
+
+ 

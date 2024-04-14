@@ -1,0 +1,22 @@
+.para2{
+    position: relative;
+    left: 0;
+    top: 20px;
+  
+}
+.page3{
+    overflow-y: hidden;
+    background: linear-gradient(#ffffff,#D2DCFF);
+    height: 1300px;
+}
+
+.dia1{
+    position: relative;
+    top: -210%;
+}
+.dia2{
+    position: relative;
+    left: 80%;
+    top: -360%;
+}
+
